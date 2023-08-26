@@ -1,0 +1,276 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set overflow-x to hidden for the body element */
+body {
+  overflow-x: hidden;
+}
+
+/* Add a custom margin-top of 5rem and font-weight of 500 for an element with the class "custom-mt-5" */
+.custom-mt-5 {
+  margin-top: 5rem;
+  font-weight: 500;
+}
+
+/* Add a custom margin-top of 1rem for an element with the class "custom-mt-3" */
+.custom-mt-3 {
+  margin-top: 1rem;
+}
+
+/* Add a max-width of 500px, font-weight of 500, text-transform of capitalize, line-height of 50px, font-size of 3rem for an element with the class "custom-w-1" */
+.custom-w-1 {
+  max-width: 500px;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 50px;
+  font-size: 3rem;
+}
+
+/* Add a margin-left of 12rem for elements with the classes "custom-mt-5", "custom-w-1", "box-line-1", "btn-color-1", and "txt-1" */
+.custom-mt-5,
+.custom-w-1,
+.box-line-1,
+.btn-color-1,
+.txt-1 {
+  margin-left: 12rem;
+}
+
+/* Set the color to rgb(255, 174, 0) for an element with the class "custom-color-1" */
+.custom-color-1 {
+  color: rgb(255, 174, 0);
+}
+
+/* Add a margin-top of 2rem, font-size of 1.2rem, font-weight of 500, max-width of 400px, color of #b1b0b0, and margin-left of 1rem for an element with the class "custom-txt-1" */
+.custom-txt-1 {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  max-width: 400px;
+  color: #b1b0b0;
+  margin-left: 1rem;
+}
+
+/* Add a width of 5px, height of 40px, background-color of #b1b0b0, and margin-top of 1rem for an element with the class "box-line-1" */
+.box-line-1 {
+  width: 5px;
+  height: 40px;
+  background-color: #b1b0b0;
+  margin-top: 1rem;
+}
+
+/* Add a background-color of rgb(255, 174, 0), box-shadow of 2px 2px 4px rgba(0, 0, 0, 0.3), border of none, color of white, font-weight of 500, font-size of 1.2rem, padding of 0.5rem 1rem, border-radius of 25px, and margin-top of 2rem for an element with the class "btn-color-1" */
+.btn-color-1 {
+  background-color: rgb(255, 174, 0);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border: none;
+  color: white;
+  font-weight: 500;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  margin-top: 2rem;
+}
+
+/* Add a background-color of rgb(255, 174, 0), box-shadow of 2px 2px 4px rgba(0, 0, 0, 0.3), border of none, color of white, font-weight of 500, font-size of 1.2rem, padding of 0.5rem 1rem, border-radius of 25px, and margin-left of 1rem for an element with the class "btn-shp-1" */
+.btn-shp-1 {
+  background-color: rgb(255, 174, 0);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border: none;
+  color: white;
+  font-weight: 500;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+}
+
+/* Set the color to black and font-weight to 600 for an element with the class "navbar-nav-link-1" */
+.navbar-nav-link-1 {
+  color: black;
+  font-weight: 600;
+}
+
+/* Add a width of 3rem, margin-top of 2rem, and margin-left of 1.2rem for an element with the class "btn-w-1" */
+.btn-w-1 {
+  width: 3rem;
+  margin-top: 2rem;
+  margin-left: 1.2rem;
+}
+
+/* Add a margin-right of 12rem and margin-left of 3rem for an element with the class "chr-pics-1" */
+.chr-pics-1 {
+  margin-right: 12rem;
+  margin-left: 3rem;
+}
+
+/* Add a margin-top of 3.3rem, font-size of 1rem, font-weight of 500, max-width of 400px, color of #b1b0b0 for an element with the class "txt-1" */
+.txt-1 {
+  margin-top: 3.3rem;
+  font-size: 1rem;
+  font-weight: 500;
+  max-width: 400px;
+  color: #b1b0b0;
+}
+
+.txt-2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-left: 1rem;
+}
+
+.link-color {
+  color: #fbcc66;
+}
+
+/* Add a height of 290px, width of 700px, border-radius of 5px, and background-color of #fff2f1 for an element with the class "shpe-hgt-1" */
+.shpe-hgt-1 {
+  height: 290px;
+  width: 700px;
+  border-radius: 5px;
+  background-color: #fff2f1;
+}
+
+/* Add a height of 290px, width of 700px, border-radius of 5px, and background-color of #eaf1f4 for an element with the class "shpe-hgt-2" */
+.shpe-hgt-2 {
+  height: 290px;
+  width: 700px;
+  border-radius: 5px;
+  background-color: #eaf1f4;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.chr-edt-1 {
+  width: 300px;
+  margin-left: 22rem;
+  margin-bottom: 300rem;
+}
+
+/* Add a margin-top of 10rem for an element with the class "margin-top-1" */
+.margin-top-1 {
+  margin-top: 10rem;
+}
+
+/* Add a font-weight of 700, font-size of 1.2rem, color of black, margin-top of 5rem, and margin-left of 1rem for an element with the class "bld-txt-1" */
+.bld-txt-1 {
+  font-weight: 700;
+  font-size: 1.6rem;
+  color: black;
+  margin-top: 5rem;
+  margin-left: 1rem;
+}
+
+/* Add a font-weight of 500, font-size of 1rem, color of #b1b0b0, margin-top of 1rem, and margin-left of 1rem for an element with the class "mute-txt-1" */
+.mute-txt-1 {
+  font-weight: 500;
+  font-size: 1.6rem;
+  color: #000000;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.content-1 {
+  margin-top: 16rem;
+}
+
+.content-h1-1 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: black;
+  margin-top: 5rem;
+}
+
+.content-p-1 {
+  font-weight: 500;
+  font-size: 1.2rem;
+  color: #b1b0b0;
+  margin-top: 1rem;
+  width: 600px;
+}
+
+.product-mrg-1 {
+  margin-top: 5rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+
+.prd-spc-1 {
+  margin-top: 5rem;
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+
+.mrg-rig-1 {
+  margin-left: 15rem;
+}
+
+.prd-txt-1 {
+  font-weight: 700;
+  font-size: 1.7rem;
+  color: black;
+  margin-top: 6rem;
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 2;
+}
+
+.prd-txt-3 {
+  font-weight: 500;
+  font-size: 2.7rem;
+  color: #f0f0f0;
+  margin-top: 5rem;
+  margin-left: -57rem;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1;
+}
+
+.prd-txt-2 {
+  font-size: 1.3rem;
+  color: black;
+  margin-top: 6rem;
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
+  text-transform: capitalize;
+}
+/* Media query for screens with a maximum width of 768px */
+@media only screen and (max-width: 768px) {
+  /* Reduce the margin-left to 2rem for elements with the classes "custom-mt-5", "custom-w-1", "box-line-1", "btn-color-1", and "txt-1" */
+  .custom-mt-5,
+  .custom-w-1,
+  .box-line-1,
+  .btn-color-1,
+  .txt-1 {
+    margin-left: 2rem;
+  }
+
+  /* Set the margin-right to 6rem for an element with the class "chr-pics-1" */
+  .chr-pics-1 {
+    margin-right: 6rem;
+  }
+}
+
+/* Media query for screens with a maximum width of 576px */
+@media only screen and (max-width: 576px) {
+  /* Reduce the margin-left to 1rem for elements with the classes "custom-mt-5", "custom-w-1", "box-line-1", "btn-color-1", and "txt-1" */
+  .custom-mt-5,
+  .custom-w-1,
+  .box-line-1,
+  .btn-color-1,
+  .txt-1 {
+    margin-left: 1rem;
+  }
+
+  /* Set the margin-right to 1rem and margin-left to 1rem for an element with the class "chr-pics-1" */
+  .chr-pics-1 {
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
